@@ -10,6 +10,16 @@ A Java Swing desktop game featuring two-player matches, a computer opponent, cus
 
 ---
 
+## 🎬 Gameplay Demo
+
+Click the thumbnail below to watch the full gameplay demonstration.
+
+[![Rock Paper Scissors Demo](https://img.youtube.com/vi/-6DZH_AQmmg/0.jpg)](https://youtu.be/-6DZH_AQmmg)
+
+**[▶ Watch the full demo on YouTube](https://youtu.be/-6DZH_AQmmg)**
+
+---
+
 ## 🎮 About the Game
 
 This project brings the classic Rock Paper Scissors game to desktop with a graphical interface built using Java Swing.
