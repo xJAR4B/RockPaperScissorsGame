@@ -1,0 +1,8 @@
+# Compiled Java files
+*.class
+
+# Build output
+game/bin/
+
+# IDE temporary files
+.idea/
